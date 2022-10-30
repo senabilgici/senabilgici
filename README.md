@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @senabilgici
-- 👀 I’m interested in ...
-.
+👋 Hi, I’m @senabilgici
 
 
